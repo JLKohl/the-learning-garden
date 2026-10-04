@@ -65,7 +65,7 @@ Total: **126 hours**, Sep 28 – Dec 17. Fixed deadlines: technology prototype d
 
 | Item | Cost |
 | --- | --- |
-| Arduino Uno R3 | $27.60 |
+| Arduino Mega | $27.60 |
 | PCA9685 servo driver board | $9 |
 | MFRC522 RFID reader modules (×5) | $20 |
 | RFID stickers, 20mm, sealed inside each token base | $9 |
@@ -82,10 +82,9 @@ Total: **126 hours**, Sep 28 – Dec 17. Fixed deadlines: technology prototype d
 
 | Item | Cost |
 | --- | --- |
-| Floral/craft wire (bendable stem armature) | ~$6 |
-| Flexible clear tubing (light-pipe sleeve over the wire) | ~$10 |
-| 3D printer filament (base and flower tops) | $18 |
-| Fake flower heads | $12 |
+| Silk flowers with stems | $12 |
+| 3D printer filament (Flower Bases and sockets, removable top) | $18 |
+| Garden pot used for base | $20 |
 
 **Tools**
 
