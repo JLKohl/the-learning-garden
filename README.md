@@ -66,7 +66,7 @@ The design decisions behind these diagrams are my own. I used Claude Code to hel
 
 - [ ] Technology prototype (October 17, 2026)
 - [ ] Requirements specification (October 31, 2026)
-- [ ] Garden top built and working
+- [ ] Garden top built and working (November 30, 2026)
 - [ ] Final delivery (December 17, 2026)
 
 ### Stretch goals
