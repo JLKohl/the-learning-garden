@@ -1,4 +1,3 @@
-# the-learning-garden
 # The Learning Garden
 
 A screen-free, hands-on interactive learning board for high-needs nonverbal and low-verbal learners.
