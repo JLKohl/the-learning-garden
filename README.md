@@ -1,6 +1,7 @@
 # The Learning Garden
 
 A screen-free, hands-on interactive learning board for high-needs nonverbal and low-verbal learners.
+See [PROPOSAL.md](PROPOSAL.md) for the full project proposal.
 
 > **Status: design and early prototyping.** This is my senior capstone project at BYU-Idaho (Fall 2026). Right now this repo holds the design documentation and diagrams. Code, wiring, and build photos will be added as the project is built.
 
