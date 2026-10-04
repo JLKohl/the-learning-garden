@@ -12,7 +12,7 @@ The technology used for this project will be based on Arduino; a lot of it will 
 
 I have worked with Arduino boards on my own a little, and I have also taken a class in Arduino at a technology conference, where I was taught how to find code in the Arduino Library and how to wire several projects that I got working. Outside of that, I have very little knowledge of using Arduino, and I am very excited to get to work with it in depth this semester, as I am hoping it will become a significant part of my work in the future.
 
-There are not a lot of studies done on using RFID for learning with children who have disabilities, but in my research, I did find one significant study, published in the journal *Sensors* ([source](https://pmc.ncbi.nlm.nih.gov/articles/PMC4541810/)). This study found that using a tangible user interface with children with Down syndrome had a positive effect on their learning outcomes. Although it is not the same disability, the study shows that using tangibles, as I would in the Learning Garden, can have a positive impact on those who struggle to learn what are generally considered basic skills.
+There are not a lot of studies done on using RFID for learning with children who have disabilities, but in my research, I did find one significant study, published in the journal _Sensors_ ([source](https://pmc.ncbi.nlm.nih.gov/articles/PMC4541810/)). This study found that using a tangible user interface with children with Down syndrome had a positive effect on their learning outcomes. Although it is not the same disability, the study shows that using tangibles, as I would in the Learning Garden, can have a positive impact on those who struggle to learn what are generally considered basic skills.
 
 ## Description
 
@@ -44,54 +44,54 @@ I also spend my days in a non- to low-verbal autistic classroom, watching kids w
 
 Total: **126 hours**, Sep 28 – Dec 17. Fixed deadlines: technology prototype due Oct 17, requirements specification due Oct 31.
 
-| Dates | Task | Hours |
-| --- | --- | --- |
-| Sep 28–Oct 4 | Order hardware (Arduino, one RFID reader, tags, servo, LED, power supply) and do focused research on the RFID and Servo libraries | 10 |
-| Oct 5–11 | Wire and code the single-socket circuit: one RFID reader, one servo, one LED and speaker reacting to one tag | 10 |
-| Oct 12–17 | Debug and polish the single-socket build, then finalize and submit the technology prototype (fixed deadline: Oct 17) | 8 |
-| Oct 19–25 | Begin drafting the requirements specification while starting to wire and test additional sockets in parallel | 10 |
-| Oct 26–31 | Finish and submit the requirements specification (fixed deadline: Oct 31); continue scaling sockets alongside it | 10 |
-| Nov 2–8 | Finish scaling to all five sockets: wiring, power distribution, solving reader-interference issues | 14 |
-| Nov 9–15 | Build the reaction logic architecture (tag-to-reaction mapping, kept as configurable data) | 12 |
-| Nov 16–22 | Design and fabricate the base/enclosure | 12 |
-| Nov 23–29 | Design and build the full token set (flowers, letters, numbers, colors) with RFID tags (reduced hours — Thanksgiving break falls here) | 6 |
-| Nov 30–Dec 6 | Full integration testing and debugging | 10 |
-| Dec 7–10 | Durability pass, plus documentation and final report | 10 |
-| Dec 11–17 | Buffer for last-minute fixes and demo rehearsal before submission, and SPED talk due | 14 |
+| Dates        | Task                                                                                                                                   | Hours |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Sep 28–Oct 4 | Order hardware (Arduino, one RFID reader, tags, servo, LED, power supply) and do focused research on the RFID and Servo libraries      | 10    |
+| Oct 5–11     | Wire and code the single-socket circuit: one RFID reader, one servo, one LED and speaker reacting to one tag                           | 10    |
+| Oct 12–17    | Debug and polish the single-socket build, then finalize and submit the technology prototype (fixed deadline: Oct 17)                   | 8     |
+| Oct 19–25    | Begin drafting the requirements specification while starting to wire and test additional sockets in parallel                           | 10    |
+| Oct 26–31    | Finish and submit the requirements specification (fixed deadline: Oct 31); continue scaling sockets alongside it                       | 10    |
+| Nov 2–8      | Finish scaling to all five sockets: wiring, power distribution, solving reader-interference issues                                     | 14    |
+| Nov 9–15     | Build the reaction logic architecture (tag-to-reaction mapping, kept as configurable data)                                             | 12    |
+| Nov 16–22    | Design and fabricate the base/enclosure                                                                                                | 12    |
+| Nov 23–29    | Design and build the full token set (flowers, letters, numbers, colors) with RFID tags (reduced hours — Thanksgiving break falls here) | 6     |
+| Nov 30–Dec 6 | Full integration testing and debugging                                                                                                 | 10    |
+| Dec 7–10     | Durability pass, plus documentation and final report                                                                                   | 10    |
+| Dec 11–17    | Buffer for last-minute fixes and demo rehearsal before submission, and SPED talk due                                                   | 14    |
 
 ## Resources
 
 **Electronics**
 
-| Item | Cost |
-| --- | --- |
-| Arduino Mega | $27.60 |
-| PCA9685 servo driver board | $9 |
-| MFRC522 RFID reader modules (×5) | $20 |
-| RFID stickers, 20mm, sealed inside each token base | $9 |
-| SG90 micro servos (×5) | $16 |
-| Addressable LED strip (WS2812/NeoPixel), 1m | $16 |
-| DFPlayer Mini MP3 module | $9 |
-| Small 8-ohm speaker | $4 |
-| MicroSD card | $7 |
-| Breadboard + jumper wire kit | $13 |
-| 5V USB wall adapter (for the Arduino) | $8 |
-| 5V 2–3A power supply (for the PCA9685/servos) | $12 |
+| Item                                               | Cost   |
+| -------------------------------------------------- | ------ |
+| Arduino Mega                                       | $27.60 |
+| PCA9685 servo driver board                         | $9     |
+| MFRC522 RFID reader modules (×5)                   | $20    |
+| RFID stickers, 20mm, sealed inside each token base | $9     |
+| SG90 micro servos (×5)                             | $16    |
+| Addressable LED strip (WS2812/NeoPixel), 1m        | $16    |
+| DFPlayer Mini MP3 module                           | $9     |
+| Small 8-ohm speaker                                | $4     |
+| MicroSD card                                       | $7     |
+| Breadboard + jumper wire kit                       | $13    |
+| 5V USB wall adapter (for the Arduino)              | $8     |
+| 5V 2–3A power supply (for the PCA9685/servos)      | $12    |
 
 **Structure & craft**
 
-| Item | Cost |
-| --- | --- |
-| Silk flowers with stems | $12 |
-| 3D printer filament (Flower Bases and sockets, removable top) | $18 |
-| Garden pot used for base | $20 |
+| Item                                                          | Cost |
+| ------------------------------------------------------------- | ---- |
+| Silk flowers with stems                                       | $12  |
+| 3D printer filament (Flower Bases and sockets, removable top) | $18  |
+| Garden pot used for base                                      | $20  |
 
 **Tools**
 
-| Item | Cost |
-| --- | --- |
-| Soldering iron kit | $25 |
-| Multimeter | $18 |
+| Item               | Cost |
+| ------------------ | ---- |
+| Soldering iron kit | $25  |
+| Multimeter         | $18  |
 
 ## Dependencies
 
