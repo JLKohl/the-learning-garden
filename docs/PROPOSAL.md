@@ -28,8 +28,6 @@ The significance of this project could be a great impact on the increasing non-v
 
 The Learning Garden will not only allow for tangible objects to be used, but it will also allow for the immediate cause and effect that is often needed for a child to want to continue interacting with an object — something that is often only found in high-technology devices. This is especially important with high level autistic children because they often struggle with the concept of cause and effect and having immediate high response helps them learn that feedback loop. I've seen this firsthand in my own classroom — many of my students don't yet understand that their own actions can cause something to happen, and building that understanding is a big part of what I want this project to help with.
 
-I believe this project would be perfect for a resume because it shows an understanding of how a product needs to be useful, reliable, and geared toward the audience it's intended for. It will show that I am willing to work hard, research the people I am creating for, and that I have a passion for filling product gaps with useful products.
-
 ## New Computer Science Concepts
 
 A lot of what I will be doing in this project will be new to me. Fortunately, I love researching and working toward something I am passionate about. I will be learning how to work with physical sets, and I will be learning a lot more about Arduino and how to set up breadboards, servos, and other parts.
