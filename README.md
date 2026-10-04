@@ -47,16 +47,20 @@ The interaction logic stays the same across tops. Only the tag-to-reaction mappi
 
 ## Diagrams
 
-<!-- Replace the file names below with your actual diagram files in the diagrams/ folder. -->
+The design decisions behind these diagrams are my own. I used Claude Code to help draw them up.
 
-### System overview
-![System overview](diagrams/system-overview.png)
 
-### Wiring
-![Wiring diagram](diagrams/wiring.png)
+### Garden Overview
+![Garden Overview](diagrams/learning-garden-overview.png)
 
-### Interaction flow
-![Interaction flow](diagrams/interaction-flow.png)
+### Socket
+![Socket](diagrams/learning-garden-socket.png)
+
+### Socket top view
+![Socket top view](diagrams/learning-garden-socket-top.png)
+
+### System
+![System](diagrams/learning-garden-system.png)
 
 ## Roadmap
 
