@@ -53,6 +53,16 @@ The interaction logic stays the same across tops. Only the tag-to-reaction mappi
 | Switch per socket | Sets which sockets are active |
 | 3D-printed sockets and tokens | Keyed so the token and socket turn together |
 
+## Libraries
+
+These are the Arduino libraries the code uses so far. The names match what to search for in the Arduino IDE Library Manager.
+
+| Library | Used for |
+| --- | --- |
+| MFRC522 | Talks to the RC522 RFID reader and reads each tag's ID |
+| Adafruit NeoPixel | Controls the WS2812B LED ring (colors and brightness) |
+| SPI | Lets the Arduino communicate with the RFID reader. Included with the Arduino IDE, so there is nothing to install |
+
 ## Diagrams
 
 The design decisions behind these diagrams are my own. I used Claude Code to help draw them up.
