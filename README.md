@@ -5,6 +5,13 @@ See [PROPOSAL.md](PROPOSAL.md) for the full project proposal.
 
 > **Status: design and early prototyping.** This is my senior capstone project at BYU-Idaho (Fall 2026). Right now this repo holds the design documentation and diagrams. Code, wiring, and build photos will be added as the project is built.
 
+## Updates
+
+### Oct 9, 2026
+First working test — the LED reacts correctly to two different RFID tags.
+
+[![Watch the update](https://img.youtube.com/vi/oCQH_s-SD8M/0.jpg)](https://youtu.be/oCQH_s-SD8M)
+
 ## Why I'm building this
 
 I work as a special education paraprofessional in a self-contained classroom. A lot of my students' instruction happens on an iPad or with flat materials like picture cards. Very little of it is something a student can hold in their hands that reacts right away, the same way every time.
