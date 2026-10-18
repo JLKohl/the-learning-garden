@@ -7,8 +7,15 @@ See [PROPOSAL.md](PROPOSAL.md) for the full project proposal.
 
 ## Updates
 
+### Oct 17, 2026
+
+Second working test — added sound and servo reaction to RFID tags.
+
+[![Watch the update](https://img.youtube.com/vi/oCQH_s-SD8M/0.jpg)](https://youtu.be/CA70ZP8VUEM?si=UzPQze_J3TbAVoJ5)
+
 ### Oct 9, 2026
-First working test — the LED reacts correctly to two different RFID tags.
+
+First working test — the LED reacts correctly with two different RFID tags.
 
 [![Watch the update](https://img.youtube.com/vi/oCQH_s-SD8M/0.jpg)](https://youtu.be/oCQH_s-SD8M)
 
@@ -42,42 +49,45 @@ The interaction logic stays the same across tops. Only the tag-to-reaction mappi
 
 ## Planned hardware
 
-| Part | Purpose |
-| --- | --- |
-| Arduino Mega 2560 Rev3 | Main controller |
-| RFID reader per socket | Identifies the token placed in each socket |
-| RFID reader in the base | Identifies which top is attached |
-| 16-LED WS2812B ring per socket | Light reactions |
-| Servo per socket | Spins the socket |
+| Part                             | Purpose                                          |
+| -------------------------------- | ------------------------------------------------ |
+| Arduino Mega 2560 Rev3           | Main controller                                  |
+| RFID reader per socket           | Identifies the token placed in each socket       |
+| RFID reader in the base          | Identifies which top is attached                 |
+| 16-LED WS2812B ring per socket   | Light reactions                                  |
+| Servo per socket                 | Spins the socket                                 |
 | PCA9685 servo driver board (I2C) | Generates the control signals for all the servos |
-| Switch per socket | Sets which sockets are active |
-| 3D-printed sockets and tokens | Keyed so the token and socket turn together |
+| Switch per socket                | Sets which sockets are active                    |
+| 3D-printed sockets and tokens    | Keyed so the token and socket turn together      |
 
 ## Libraries
 
 These are the Arduino libraries the code uses so far. The names match what to search for in the Arduino IDE Library Manager.
 
-| Library | Used for |
-| --- | --- |
-| MFRC522 | Talks to the RC522 RFID reader and reads each tag's ID |
-| Adafruit NeoPixel | Controls the WS2812B LED ring (colors and brightness) |
-| SPI | Lets the Arduino communicate with the RFID reader. Included with the Arduino IDE, so there is nothing to install |
+| Library           | Used for                                                                                                         |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------- |
+| MFRC522           | Talks to the RC522 RFID reader and reads each tag's ID                                                           |
+| Adafruit NeoPixel | Controls the WS2812B LED ring (colors and brightness)                                                            |
+| SPI               | Lets the Arduino communicate with the RFID reader. Included with the Arduino IDE, so there is nothing to install |
 
 ## Diagrams
 
 The design decisions behind these diagrams are my own. I used Claude Code to help draw them up.
 
-
 ### Garden Overview
+
 ![Garden Overview](diagrams/learning-garden-overview.png)
 
 ### Socket
+
 ![Socket](diagrams/learning-garden-socket.png)
 
 ### Socket top view
+
 ![Socket top view](diagrams/learning-garden-socket-top.png)
 
 ### System
+
 ![System](diagrams/learning-garden-system.png)
 
 ## Roadmap
