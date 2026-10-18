@@ -8,17 +8,17 @@ See [PROPOSAL.md](PROPOSAL.md) for the full project proposal.
 ## Updates
 
 ### Oct 17, 2026
-Short description of what this update shows.
+Added a speaker and a servo to the test, so a tag now triggers sound and movement along with the lights.
 
 <a href="https://youtu.be/CA70ZP8VUEM">
-  <img src="https://img.youtube.com/vi/CA70ZP8VUEM/mqdefault.jpg" alt="Watch the Oct 17 update" width="150">
+  <img src="media/update-2026-10-17.png" alt="Watch the Oct 17 update" width="320">
 </a>
 
 ### Oct 9, 2026
 First working test — the LED reacts correctly to two different RFID tags.
 
 <a href="https://youtu.be/oCQH_s-SD8M">
-  <img src="https://img.youtube.com/vi/oCQH_s-SD8M/mqdefault.jpg" alt="Watch the Oct 9 update" width="150">
+  <img src="media/update-2026-10-09.png" alt="Watch the Oct 9 update" width="320">
 </a>
 
 ## Why I'm building this
