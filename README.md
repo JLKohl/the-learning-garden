@@ -8,7 +8,7 @@ See [PROPOSAL.md](PROPOSAL.md) for the full project proposal.
 ## Updates
 
 ### Oct 17, 2026
-Short description of what this update shows.
+Second working test - added speaker and servo reactions to RFID tags.
 
 <a href="https://youtu.be/CA70ZP8VUEM">
   <img src="https://img.youtube.com/vi/CA70ZP8VUEM/mqdefault.jpg" alt="Watch the Oct 17 update" width="150">
