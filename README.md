@@ -7,15 +7,22 @@ See [PROPOSAL.md](PROPOSAL.md) for the full project proposal.
 
 ## Updates
 
+### Oct 24, 2026
+Sorting out how to get the RFID tag to work. 
+
+<a href="https://youtu.be/TxLIVVQZb2c?si=WvlkWd9iYFNsHZ_0">
+  <img src="https://img.youtube.com/vi/CA70ZP8VUEM/mqdefault.jpg" alt="Watch the Oct 24 update" width="150">
+</a>
+
 ### Oct 17, 2026
-Second working test - added speaker and servo reactions to RFID tags.
+Added speaker and servo reactions to RFID tags.
 
 <a href="https://youtu.be/CA70ZP8VUEM">
   <img src="https://img.youtube.com/vi/CA70ZP8VUEM/mqdefault.jpg" alt="Watch the Oct 17 update" width="150">
 </a>
 
 ### Oct 9, 2026
-First working test — the LED reacts correctly to two different RFID tags.
+LED reacts correctly to two different RFID tags.
 
 <a href="https://youtu.be/oCQH_s-SD8M">
   <img src="https://img.youtube.com/vi/oCQH_s-SD8M/mqdefault.jpg" alt="Watch the Oct 9 update" width="150">
