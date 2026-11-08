@@ -5,19 +5,20 @@ See [PROPOSAL.md](PROPOSAL.md) for the full project proposal.
 
 > **Status: design and early prototyping.** This is my senior capstone project at BYU-Idaho (Fall 2026). Right now this repo holds the design documentation and diagrams. Code, wiring, and build photos will be added as the project is built.
 
-## Updates
+## Latest updates
+
 ### Nov 7, 2026
 A working 3D printed prototype! (far from perfect, but it works)
 
-<a href="https://youtu.be/hQddRAxuPW8?si=REIwuhmzRr4TA40s">
-  <img src="https://img.youtube.com/vi/CA70ZP8VUEM/mqdefault.jpg" alt="Watch the Nov 7 update" width="150">
+<a href="https://youtu.be/hQddRAxuPW8">
+  <img src="https://img.youtube.com/vi/hQddRAxuPW8/mqdefault.jpg" alt="Watch the Nov 7 update" width="150">
 </a>
 
 ### Oct 24, 2026
-Sorting out how to get the RFID tag to work. 
+Sorting out how to get the RFID tag to work.
 
-<a href="https://youtu.be/TxLIVVQZb2c?si=WvlkWd9iYFNsHZ_0">
-  <img src="https://img.youtube.com/vi/CA70ZP8VUEM/mqdefault.jpg" alt="Watch the Oct 24 update" width="150">
+<a href="https://youtu.be/TxLIVVQZb2c">
+  <img src="https://img.youtube.com/vi/TxLIVVQZb2c/mqdefault.jpg" alt="Watch the Oct 24 update" width="150">
 </a>
 
 ### Oct 17, 2026
@@ -27,12 +28,10 @@ Added speaker and servo reactions to RFID tags.
   <img src="https://img.youtube.com/vi/CA70ZP8VUEM/mqdefault.jpg" alt="Watch the Oct 17 update" width="150">
 </a>
 
-### Oct 9, 2026
-LED reacts correctly to two different RFID tags.
+See [all updates](UPDATES.md) for the full build history.
 
-<a href="https://youtu.be/oCQH_s-SD8M">
-  <img src="https://img.youtube.com/vi/oCQH_s-SD8M/mqdefault.jpg" alt="Watch the Oct 9 update" width="150">
-</a>
+<!-- When you have a YouTube playlist, add a line here like:
+All videos are also in the [build updates playlist](PLAYLIST-LINK-HERE). -->
 
 ## Why I'm building this
 
