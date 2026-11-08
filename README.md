@@ -6,6 +6,12 @@ See [PROPOSAL.md](PROPOSAL.md) for the full project proposal.
 > **Status: design and early prototyping.** This is my senior capstone project at BYU-Idaho (Fall 2026). Right now this repo holds the design documentation and diagrams. Code, wiring, and build photos will be added as the project is built.
 
 ## Updates
+### Nov 7, 2026
+A working 3D printed prototype! (far from perfect, but it works)
+
+<a href="https://youtu.be/hQddRAxuPW8?si=REIwuhmzRr4TA40s">
+  <img src="https://img.youtube.com/vi/CA70ZP8VUEM/mqdefault.jpg" alt="Watch the Nov 7 update" width="150">
+</a>
 
 ### Oct 24, 2026
 Sorting out how to get the RFID tag to work. 
